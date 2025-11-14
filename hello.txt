@@ -1,0 +1,12 @@
+{
+  "productId": 12345,
+  "name": "Mars Espresso Coffee",
+  "price": 79.90,
+  "inStock": true,
+  "categories": ["coffee", "drinks", "cafe"],
+  "nutritionalInfo": {
+    "calories": 5,
+    "sugar": "0g",
+    "fat": "0g"
+  }
+}
